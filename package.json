@@ -1,0 +1,27 @@
+{
+  "name": "tea4344ea-tomer",
+  "version": "1.0.0",
+  "description": "don't",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bohdan900/tea4344ea-tomer.git"
+  },
+  "dependencies": {
+    "earn_378_tea": "1.0.0",
+    "application787": "1.0.0",
+    "sasuke-tea-app": "1.0.0",
+    "cm606tea-tea": "1.0.0",
+    "dodatok_team-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bohdan900/tea4344ea-tomer/issues"
+  },
+  "homepage": "https://github.com/bohdan900/tea4344ea-tomer#readme"
+}
